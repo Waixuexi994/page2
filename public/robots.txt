@@ -7,3 +7,4 @@ Host: https://page2.apicore.ai
 
 # Sitemaps
 Sitemap: https://page2.apicore.ai/sitemap.xml
+
