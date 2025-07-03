@@ -26,7 +26,7 @@ export const metadata = {
     siteName: "APICore.ai",
     images: [
       {
-        url: "/og-cover.png", // 你的网站封面图路径
+        url: "/og-cover.png",
         width: 1200,
         height: 630,
       },
@@ -36,7 +36,9 @@ export const metadata = {
     card: "summary_large_image",
     title: "APICore.ai - AI 模型接口平台",
     description: "一站式 AI 接口调用平台，覆盖 GPT-4o、文生图、音频、视频等模型",
-    creator: "@你的Twitter名（没有可留空）",
+    creator: "@yourTwitterUsername", // 👈 你可以填空字符串 "", 或删掉这一行
+  },
+};
 
 
 export default function Home() {
