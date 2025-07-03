@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://api.apicore.ai
+Host: https://page2.apicore.ai
 
 # Sitemaps
-Sitemap: https://api.apicore.ai/page2/sitemap.xml
+Sitemap: https://page2.apicore.ai/sitemap.xml
