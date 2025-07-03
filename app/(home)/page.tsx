@@ -11,6 +11,34 @@ import MapSection from "@/components/mapSection";
 import Pricing from "@/components/pricing";
 import { ApiPricingComparison } from "@/components/api-pricing-comparison";
 
+export const metadata = {
+  title: "APICore.ai — 一站式 AI 模型接口聚合平台（低价、快速、稳定）",
+  description:
+    "APICore.ai 提供超过 300 个文本、图像、音频、视频 AI 模型统一调用接口，价格低至 0.0003 美元，企业级 SLA，开发效率提升 80%。",
+  keywords: ["APICore", "AI 接口", "GPT4o API", "便宜 AI 接口", "一站式 AI 平台"],
+  alternates: {
+    canonical: "https://apicore.ai/",
+  },
+  openGraph: {
+    title: "APICore.ai – 最好用的 AI 模型 API 聚合平台",
+    description: "统一接入 300+ AI 模型，GPT4o、文生图、TTS 一次搞定",
+    url: "https://apicore.ai/",
+    siteName: "APICore.ai",
+    images: [
+      {
+        url: "/og-cover.png", // 你的网站封面图路径
+        width: 1200,
+        height: 630,
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "APICore.ai - AI 模型接口平台",
+    description: "一站式 AI 接口调用平台，覆盖 GPT-4o、文生图、音频、视频等模型",
+    creator: "@你的Twitter名（没有可留空）",
+
+
 export default function Home() {
   return (
     <div>
