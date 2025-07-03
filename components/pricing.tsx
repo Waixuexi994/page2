@@ -4,7 +4,7 @@ import { cn } from "@/lib/utils";
 import React from "react";
 import { CheckIcon } from "./icons";
 import { motion } from "motion/react";
-import { ArrowRight, Zap } from "lucide-react";
+import { Zap } from "lucide-react";
 
 const Pricing = (): JSX.Element => {
   const apiExamples = [
