@@ -6,4 +6,4 @@ Allow: /
 Host: https://api.apicore.ai
 
 # Sitemaps
-Sitemap: https://api.apicore.ai/sitemap.xml
+Sitemap: https://api.apicore.ai/page2/sitemap.xml
