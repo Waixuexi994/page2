@@ -30,7 +30,7 @@ A modern and playful template designed for SaaS and marketing websites, powered 
 
 ### Prerequisites
 
-- Node.js 18+
+- Node.js 18++
 - npm or yarn
 
 ### Installation
